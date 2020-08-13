@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OrderedObjectSet",
+        "repositoryURL": "https://github.com/paulofaria/OrderedObjectSet.git",
+        "state": {
+          "branch": null,
+          "revision": "07e4d28e4825c98da8a35c628a3fead723c0d0b0",
+          "version": "6.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
